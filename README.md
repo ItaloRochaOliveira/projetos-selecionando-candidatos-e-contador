@@ -21,7 +21,7 @@ Os conteúdos principais a serem explorados são:
 
 ### Resultado final do projeto desafio de controle de fluxo:
 
-| <img src="/desafio-controle-de-fluxo/assents/result.png" width=100% margim=100%><br><sub>projeto desafio de controle de fluxo</sub><br> |
+| <img src="/desafio-controle-de-fluxo/assents/result.png" width=100%><br><sub>projeto desafio de controle de fluxo</sub><br> |
 | :-------------------------------------------------------------------------------------------------------------------------: |
 
 <a href="https://github.com/ItaloRochaOliveira/projetos-selecionando-candidatos-e-contador/blob/main/desafio-controle-de-fluxo/README.md"> _Para mais detalhes e imagens_</a>
